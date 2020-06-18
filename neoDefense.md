@@ -15,27 +15,27 @@ screens:
   - title: Alpha stage '3. Zigzag'
     imgurl: /assets/img/neoDefense/a03.PNG
   - title: Alpha stage '8. Stair'
-    imgurl: /assets/img/neoDefense/a08.png
+    imgurl: /assets/img/neoDefense/a08.PNG
   - title: Alpha stage '12. Loop'
-    imgurl: /assets/img/neoDefense/a12.png
+    imgurl: /assets/img/neoDefense/a12.PNG
   - title: Alpha stage '15. The Boss'
-    imgurl: /assets/img/neoDefense/a15.png
+    imgurl: /assets/img/neoDefense/a15.PNG
   - title: Beta stage '3. Ant'
-    imgurl: /assets/img/neoDefense/b03.png
+    imgurl: /assets/img/neoDefense/b03.PNG
   - title: Beta stage '7. Around2'
-    imgurl: /assets/img/neoDefense/b07.png
+    imgurl: /assets/img/neoDefense/b07.PNG
   - title: Beta stage '12. Butterfly'
-    imgurl: /assets/img/neoDefense/b12.png
+    imgurl: /assets/img/neoDefense/b12.PNG
   - title: Beta stage '15. The Boss'
-    imgurl: /assets/img/neoDefense/b15.png
+    imgurl: /assets/img/neoDefense/b15.PNG
   - title: Gamma stage '3. re-Trident'
-    imgurl: /assets/img/neoDefense/g03.png
+    imgurl: /assets/img/neoDefense/g03.PNG
   - title: Gamma stage '6. 4 rolls'
-    imgurl: /assets/img/neoDefense/g06.png
+    imgurl: /assets/img/neoDefense/g06.PNG
   - title: Gamma stage '12. Tower'
-    imgurl: /assets/img/neoDefense/g12.png
+    imgurl: /assets/img/neoDefense/g12.PNG
   - title: Gamma stage '15. The Boss'
-    imgurl: /assets/img/neoDefense/g15.png
+    imgurl: /assets/img/neoDefense/g15.PNG
 ---
 
 <div class="">
