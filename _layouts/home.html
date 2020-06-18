@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <header class="post-header">
+    {%- if page.title_img != null and page.title_img != "" -%}
+    <img alt="{{ page.title | escape }}" src="{{ page.title_img }}" style="{{ page.title_css }}" />
+    {%- else -%}
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {%- endif -%}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+
+
+
+
+</div>
