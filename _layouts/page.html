@@ -1,0 +1,53 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+
+
+
+
+  {%- if site.categories.size > 0 -%}
+    <div class="one-half-col">
+      {% for category in site.categories %}
+        <div {% if forloop.first %}class=""{% else %}class=""{% endif %}>
+          <table>
+            <tr><th>{{ category[0] }}</th></tr>
+            <tr>
+              <td>
+                <ul>
+                  <!-- 최근순으로 소트해야함 -->
+                  {% for post in category[1] limit:20 %}
+                    <li>
+                      <!-- 날짜 표시를 깔끔하게 할 필요가 있음 -->
+                      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                      <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+                      <!-- 코멘트 갯수를 표시해야 함. -->
+                      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+
+                      <!-- 내용을 살짝 보여주는 기능이 필요할까? -->
+                      {%- if site.show_excerpts -%}
+                        {{ post.excerpt }}
+                      {%- endif -%}
+                    </li>
+                  {% endfor %}
+                </ul>
+              </td>
+            </tr>
+          </table>
+        </div>
+      {% endfor %}
+    </div>
+  {%- endif -%}
+
+
+</article>
