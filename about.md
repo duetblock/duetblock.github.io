@@ -16,7 +16,7 @@ history:
 
 The duetBlock is a game name and a company founded by one-man indie game developer Son Gil
 
-#### History
+### History
 
 <ul>
 {% for item in page.history %}
