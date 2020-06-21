@@ -6,12 +6,12 @@ title_img: /assets/img/logo_big.png
 title_css: height:100px;
 permalink: /about/
 history:
-  - name: Jun 8, 2015
-    content: duetBlock launched.
-  - name: Aug 16, 2017
-    content: neoDefense launched.
   - name: now
     content: developing...
+  - name: Aug 16, 2017
+    content: neoDefense launched.
+  - name: Jun 8, 2015
+    content: duetBlock launched.
 ---
 
 The duetBlock is a game name and a company founded by one-man indie game developer Son Gil
