@@ -43,8 +43,8 @@ screens:
   <div style="text-align:center;">
     <h2 style="font-family:HelveticaNeue-CondensedBold, Arial Narrow">Defense as much you can!</h2>
     <div class="" style="width:80%;height:400px;display:inline-block;">
-		  <iframe style="width:100%;height:100%;" id="video" src="https://www.youtube.com/embed/dkuK5oAhqsU?ecver=2" frameborder="0" allowfullscreen=""></iframe>
-	  </div>
+     <iframe style="width:100%;height:100%;" src="https://www.youtube.com/embed/dkuK5oAhqsU?ecver=2" frameborder="0" allowfullscreen=""></iframe>
+    </div>
   </div>
 
   <div>&nbsp;</div>
@@ -90,6 +90,14 @@ screens:
   {% endfor %}
   </div>
 
+  <div>&nbsp;</div>
+
+  <div style="text-align:center;">
+    <h2 style="font-family:HelveticaNeue-CondensedBold, Arial Narrow">Tutorial Movie</h2>
+    <div style="width:50%;height:600px;display:inline-block;">
+      <iframe style="width:100%;height:100%;" src="https://www.youtube.com/watch?v=Ka6qr12kKiQ" frameborder="0" allowfullscreen=""></iframe>
+    </div>
+  </div>
 </div>
 
 ## Do you want to see Gameplay ??
