@@ -87,6 +87,10 @@ screens:
 
   <div>&nbsp;</div>
   <div>&nbsp;</div>
+  <div>&nbsp;</div>
+  <div>&nbsp;</div>
+  <div>&nbsp;</div>
+  <div>&nbsp;</div>
 
   <h2 style="font-family:HelveticaNeue-CondensedBold, Arial Narrow">There are more than 45 missions (And more...) you must defend!</h2>
 
