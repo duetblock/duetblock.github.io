@@ -81,7 +81,7 @@ screens:
   <div style="text-align:center;">
     <h2 style="font-family:HelveticaNeue-CondensedBold, Arial Narrow">Zeta will be ready soon!</h2>
     <div style="height:600px;display:inline-block;">
-      <iframe style="width:100%;height:100%;" src="https://youtu.be/zT2AKd8SdRc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe style="width:100%;height:100%;" src="https://www.youtube.com/embed/zT2AKd8SdRc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
 
