@@ -74,6 +74,20 @@ screens:
     </div>
   </div>
 
+  <div>&nbsp;</div>
+  <div>&nbsp;</div>
+  <div>&nbsp;</div>
+  
+  <div style="text-align:center;">
+    <h2 style="font-family:HelveticaNeue-CondensedBold, Arial Narrow">Zeta will be ready soon!</h2>
+    <div style="height:600px;display:inline-block;">
+      <iframe style="width:100%;height:100%;" src="https://youtu.be/zT2AKd8SdRc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <div>&nbsp;</div>
+  <div>&nbsp;</div>
+
   <h2 style="font-family:HelveticaNeue-CondensedBold, Arial Narrow">There are more than 45 missions (And more...) you must defend!</h2>
 
   <div>&nbsp;</div>
