@@ -12,6 +12,7 @@ screens:
     imgurl: /assets/img/p_laser.gif
   - title: Missile
     imgurl: /assets/img/p_missile.gif
+screens_bak:
   - title: Alpha stage '3. Zigzag'
     imgurl: /assets/img/neoDefense/a03.PNG
   - title: Alpha stage '8. Stair'
