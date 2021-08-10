@@ -118,6 +118,7 @@ screens_bak:
     <div style="height:600px;display:inline-block;">
       <iframe style="width:100%;height:100%;" src="https://www.youtube.com/embed/7q5DVw2a2bc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
+	  <div><a href="/assets/img/tutorial2021.mp4">Download tutorial movie(mp4)</a></div>
   </div>
 </div>
 
