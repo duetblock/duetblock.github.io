@@ -2,7 +2,7 @@ title: duetBlock.com
 author: Please contact to
 email: duetblock@duetblock.com
 # description: > # this means to ignore newlines until "show_excerpts:"
-description: duetBlock.com © 2015-2021, all rights reserved.
+description: duetBlock.com © 2015-2022, all rights reserved.
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
@@ -20,7 +20,7 @@ minima:
     # github:  jekyll
     # rss: rss
     # dribbble: jekyll
-     facebook: DuetBlock-1411744502486808
+    # facebook: DuetBlock-1411744502486808
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
@@ -44,7 +44,8 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - neoDefense.md
- - duetBlock.md
+# - duetBlock.md
+ - heavyBowl.md
  - about.md
  - privacyPolicy.md
 
