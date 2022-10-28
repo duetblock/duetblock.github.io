@@ -13,7 +13,7 @@ permalink: /neoDefense/privacy_policy.html
 <h4>Website:</h4>
 <p>	We do not collect any kind of data.	</p>
 <h4>iOS App:</h4>
-<p>The neoDefense in the Apple App Store doesn't collect or store any form of private data from the user. Apple might collect data while using our App. More details about that is found in the Privacy Policies by Apple.</p>
+<p>The neoDefense and Heavy Bowl in the Apple App Store doesn't collect or store any form of private data from the user. Apple might collect data while using our App. More details about that is found in the Privacy Policies by Apple.</p>
 <p><a href="https://www.apple.com/legal/privacy/" target="_blank">Apple Privacy Policy </a></p>
 
 ## Contact Information of Data Controller
