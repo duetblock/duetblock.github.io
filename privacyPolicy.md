@@ -16,6 +16,10 @@ permalink: /neoDefense/privacy_policy.html
 <p>The neoDefense and Heavy Bowl in the Apple App Store doesn't collect or store any form of private data from the user. Apple might collect data while using our App. More details about that is found in the Privacy Policies by Apple.</p>
 <p><a href="https://www.apple.com/legal/privacy/" target="_blank">Apple Privacy Policy </a></p>
 
+<h4>Android App:</h4>
+<p>The Heavy Bowl in the Google Play Store doesn't collect or store any form of private data from the user. Google might collect data while using our App. More details about that is found in the Privacy Policies by Google.</p>
+<p><a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy </a></p>
+
 ## Contact Information of Data Controller
 <p>Email: duetBlock@duetBlock.com</p>
 <p>If you have questions about data protection, or if you have any requests for resolving issues with your personal data, we encourage you to primarily contact us through the email.</p>
