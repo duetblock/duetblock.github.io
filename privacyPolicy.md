@@ -6,7 +6,7 @@ permalink: /neoDefense/privacy_policy.html
 ---
 
 
-<p>Welcome to neoDefense. neoDefense (“duetBlock”, “us”, “our” or “we”) is dedicated to protecting the privacy rights of our users (“user”, "customer" or “you”).</p>
+<p>Welcome to duetBlock.com. duetBlock (“neoDefense”, “Heavy Bowl”, “us”, “our” or “we”) is dedicated to protecting the privacy rights of our users (“user”, "customer" or “you”).</p>
 <p>Your privacy is important to us. We take your privacy seriously and we greatly respect it. We are in the business of developing software products and we are not interested in selling, trading or sharing your personal information.</p>
 
 ## Information we collect
