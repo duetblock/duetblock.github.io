@@ -8,6 +8,8 @@ permalink: /about/
 history:
   - name: now
     content: developing...
+  - name: Nov 23, 2022
+    content: Heavy Bowl (Google Play Store & Apple App Store) launched.
   - name: Aug 16, 2017
     content: neoDefense launched.
   - name: Jun 8, 2015
